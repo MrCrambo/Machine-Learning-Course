@@ -16,9 +16,9 @@ Final results are this:
 
 Install requirements using anaconda or pip:
 ```python
-sklearn // for using linear models
-matplotlib // for plotting results on chart
-pandas // for working with data
+sklearn # for using linear models
+matplotlib # for plotting results on chart
+pandas # for working with data
 ```
 
 ## Conclusion
